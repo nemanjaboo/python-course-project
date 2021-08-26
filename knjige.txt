@@ -1,0 +1,6 @@
+Zivotinjska Farma,Dzordz Orvel,1950,Velika Britanija,Engleski,Na Stanju
+Puskinova Brda,Sergej Dovlatov,1982,SAD,Ruski,Izdato
+Komo,Srdjan Valjarevic,2006,Srbija,Srpski,Na stanju
+Kompromis,Sergej Dovlatov,1980,SAD,Ruski,Na stanju
+1984,Dzordz Orvel,1965,Velika Britanija,Engleski,Na stanju
+Zaduzbina,Isak Asimov,1958,SAD,Engleski,Na stanju

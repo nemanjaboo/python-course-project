@@ -1,0 +1,6 @@
+Test Testic,21312312,064589624,Fakultet,testic345,1234,True
+Nemanja Novakovic,34567,0652351999,Fakultet,nemanjaboo,1234,True
+Boki Bokic,6666666,05555555,Fakultet,boki1,1234,False
+Aleksandra Krstic,344444,065565656,Fakultet,anjuska93,1234,False
+Zoki Zoranovic,34567,656565,Fakultet,zoran32,1234,False
+Miki Mikic ,012235645,064556478,Fakultet,miki23,1234,False
